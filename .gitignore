@@ -1,0 +1,4 @@
+acme.json
+stdout.log
+certs/*
+logs/*
